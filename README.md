@@ -1,6 +1,6 @@
-Hi, my name is Jacob Watters. I am currently a senior at MSU Denver studying applied mathematics and computer science (CS). 
-I am a math and CS tutor at MSU Denver. I'm also a learning assistant for the CS and Math department where I supplement instructor teaching in machine learning, 
-digital image processing, and computer organization. My main research interests are machine learning and numerical linear algebra.
+Hi, my name is Jacob Watters. I am currently pursuing a MS in computer sciene with a focus in machine learning from the Colorado School of Mines. I have a BS in applied mathematics and computer science from the Metropolitan State University of Denver.
+
+I work as a research assistant in the mining engineering department at the Colorado School of Mines where I build machine learning models to takle pratical problems within the world of mining saftey.
 
 I spend most of my free time programming or doing math. However, when I am not doing those things I enjoy painting, drawing, and playing the piano.
 
