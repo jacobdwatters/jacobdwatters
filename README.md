@@ -1,6 +1,9 @@
-Hi, my name is Jacob Watters. I am currently pursuing a MS in computer sciene with a focus in machine learning from the Colorado School of Mines. I have a BS in applied mathematics and computer science from the Metropolitan State University of Denver.
+Hi, my name is Jacob Watters. I currently work for the DoD doing reaseach in deep reinforcment learning.
 
-I work as a research assistant in the mining engineering department at the Colorado School of Mines where I build machine learning models to tackle pratical problems within the world of mining saftey.
+Education: 
+ - MS Computer Science: Colorado School of Mines
+   - Thesis: Recall Informed Self-Attention Representation Learning and Generative AI For Improved Car Accident Detection in Highly Unbalanced Datasets (what a mouthfull)
+ - BS Applied Mathematics and Computer Science: Metropolitan State University of Denver
 
 I spend most of my free time programming or doing math. However, when I am not doing those things I enjoy painting, drawing, and playing the piano.
 
